@@ -3,6 +3,11 @@
 ## Intuition
 
 <!-- Describe your first thoughts on how to solve this problem. -->
+Sorting the array and checking until a pair of consecutive numbers aren't the equal. If none found, it means there
+aren't any duplicates.
+## Approach
+
+<!-- Describe your approach to solving the problem. -->
 
 1. Check for `nums.length != 0`. In this case, we need to even process and instead return right away.
 2. Sort the array with the thought of getting duplicates in consecutive positions.
@@ -12,31 +17,25 @@
 5. If `true`, return `true` as we have found a duplicate. `else` set `previous = current`
 6. If the function manages to survive the iteration then it means there weren't any duplicates, so `return false`.
 
-## Approach
-
-<!-- Describe your approach to solving the problem. -->
-
 ## Complexity
 
-- Time complexity:
+### Time complexity:
 
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
-O(nlogn) + O(n)
+      O(nlogn) + O(n)
 
-- Space complexity:
+### Space complexity:
 
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
-O(1)
+      O(1)
 
-##
+## Code
 
 ```java
 import java.util.Arrays;
 
 public final class ContainsDuplicate {
-    public static boolean solution1(int[] nums) {
-        if (nums.length == 0)
-            return false;
+   public static boolean solution1(int[] nums) {
+      if (nums.length == 0)
+         return false;
 
         Arrays.sort(nums);
         int previous = nums[0];
