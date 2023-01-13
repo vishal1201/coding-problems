@@ -19,11 +19,10 @@ aren't any duplicates.
 
 ## Complexity
 
-### Time complexity:
-
+### Time complexity
       O(nlogn) + O(n)
 
-### Space complexity:
+### Space complexity
 
       O(1)
 

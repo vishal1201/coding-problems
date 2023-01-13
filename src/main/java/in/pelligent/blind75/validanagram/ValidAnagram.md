@@ -18,11 +18,11 @@ Creating a map of occurrences and checking if the occurrences differ for both th
 
 ## Complexity
 
-### Time complexity:
+### Time complexity
 
       O(2s + t)
 
-### Space complexity:
+### Space complexity
 
       O(s) + O(t)
 
