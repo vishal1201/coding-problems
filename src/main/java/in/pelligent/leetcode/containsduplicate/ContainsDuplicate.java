@@ -1,4 +1,4 @@
-package in.pelligent.blind75.containsduplicate;
+package in.pelligent.leetcode.containsduplicate;
 
 import java.util.Arrays;
 

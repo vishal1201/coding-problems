@@ -1,4 +1,4 @@
-package in.pelligent.blind75.twonumbersum;
+package in.pelligent.leetcode.twonumbersum;
 
 import java.util.HashMap;
 import java.util.Map;

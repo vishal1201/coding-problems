@@ -1,4 +1,4 @@
-package in.pelligent.blind75.validanagram;
+package in.pelligent.leetcode.validanagram;
 
 import java.util.HashMap;
 import java.util.Map;

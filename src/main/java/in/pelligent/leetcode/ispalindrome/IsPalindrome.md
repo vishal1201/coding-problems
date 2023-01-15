@@ -27,22 +27,23 @@ Finally, reverse `no_special_chars_string` and compare the reverse with original
 ## Code
 
 ```java
-class Solution {
-    public boolean isPalindrome(String s) {
-        if (s.strip().length() < 2)
-            return true;
+public class IsPalindrome {
 
-        StringBuilder builder = new StringBuilder();
+   public boolean solution1(String s) {
+      if (s.strip().length() < 2)
+         return true;
 
-        for (int i = 0; i < s.length(); ++i) {
-            if (Character.isLetterOrDigit(s.charAt(i)))
-                builder.append(s.charAt(i));
-        }
+      StringBuilder builder = new StringBuilder();
 
-        String strippedString = builder.toString().toLowerCase();
-        String reversed = builder.reverse().toString().toLowerCase();
+      for (int i = 0; i < s.length(); ++i) {
+         if (Character.isLetterOrDigit(s.charAt(i)))
+            builder.append(s.charAt(i));
+      }
 
-        return reversed.equals(strippedString);
-    }
+      String strippedString = builder.toString().toLowerCase();
+      String reversed = builder.reverse().toString().toLowerCase();
+
+      return reversed.equals(strippedString);
+   }
 }
 ```

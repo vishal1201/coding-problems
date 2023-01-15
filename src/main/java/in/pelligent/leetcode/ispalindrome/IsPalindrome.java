@@ -1,4 +1,4 @@
-package in.pelligent.blind75.ispalindrome;
+package in.pelligent.leetcode.ispalindrome;
 
 public class IsPalindrome {
 
