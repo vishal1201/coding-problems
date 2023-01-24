@@ -1,4 +1,4 @@
-package in.pelligent.leetcode.reverseInteger;
+package in.pelligent.leetcode.reverseinteger;
 
 class ReverseInteger {
 

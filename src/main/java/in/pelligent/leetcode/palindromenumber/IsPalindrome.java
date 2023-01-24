@@ -1,4 +1,4 @@
-package in.pelligent.leetcode.ispalindrome;
+package in.pelligent.leetcode.palindromenumber;
 
 public class IsPalindrome {
 
