@@ -25,7 +25,7 @@ one Leetcode problem a day.
 - [Contains Duplicate](src/main/java/in/pelligent/leetcode/programming/containsduplicate/ContainsDuplicate.md)
 - [Convert The Temperature](src/main/java/in/pelligent/leetcode/programming/convertthetemperature/ConvertTheTemperature.md)
 - [Count Prefixes Of A Given String](src/main/java/in/pelligent/leetcode/programming/countprefixesofagivenstring/CountPrefixesOfAGivenString.md)
-- [Find The Index Of The First OccurrenceIn A String](src/main/java/in/pelligent/leetcode/programming/findtheindexofthefirstoccurenceinastring/Find The Index Of The First Occurrence In A String.md)
+- [Find The Index Of The First OccurrenceIn A String](src/main/java/in/pelligent/leetcode/programming/findtheindexofthefirstoccurenceinastring/FindTheIndexOfTheFirstOccurrenceInAString.md)
 - [Greatest English Letter In Upper Case](src/main/java/in/pelligent/leetcode/programming/greatestenglishletterinuppercase/GreatestEnglishLetterInUpperCase.md)
 - [Group Anagrams](src/main/java/in/pelligent/leetcode/programming/groupanagrams/GroupAnagrams.md)
 - [Jewels And Stones](src/main/java/in/pelligent/leetcode/programming/jewelsandstones/JewelsAndStones.md)
