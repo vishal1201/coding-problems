@@ -5,8 +5,7 @@ one Leetcode problem a day.
 
 - [Bank AmountSummary II](src/main/java/in/pelligent/leetcode/database/BankAmountSummaryII.md)
 - [Combine The Tables](src/main/java/in/pelligent/leetcode/database/CombineTheTables.md)
-
-[//]: # (- [Customer Who Did Not Make Any Transactions]&#40;src/main/java/in/pelligent/leetcode/database/&#41;)
+- [Customer Who Did Not Make Any Transactions](src/main/java/in/pelligent/leetcode/database/)
 - [Customers Who Never Order](src/main/java/in/pelligent/leetcode/database/CustomersWhoNeverOrder.md)
 - [Daily Leads And Partners](src/main/java/in/pelligent/leetcode/database/DailyLeadsAndPartners.md)
 - [Duplicate Emails](src/main/java/in/pelligent/leetcode/database/DuplicateEmails.md)
@@ -57,3 +56,5 @@ one Leetcode problem a day.
 - [Valid Anagram](src/main/java/in/pelligent/leetcode/programming/validanagram/ValidAnagram.md)
 - [Is Palindrome](src/main/java/in/pelligent/leetcode/programming/validpalindrome/IsPalindrome.md)
 - [Valid Parenthesis](src/main/java/in/pelligent/leetcode/programming/validparenthesis/ValidParenthesis.md)
+
+[//]: # (- [How Many Numbers Are Smaller Than the Current Number]&#40;src/main/java/in/pelligent/leetcode/programming/howmanynumbersaresmallerthanthecurrentnumber/HowManyNumbersAreSmallerThanTheCurrentNumber.md&#41;)
