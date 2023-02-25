@@ -23,6 +23,10 @@ one Leetcode problem a day.
 
 [//]: # (- [Swap Salary]&#40;src/main/java/in/pelligent/leetcode/database/SwapSalary.md&#41;)
 
+[//]: # (- [Market Analysis I]&#40;src/main/java/in/pelligent/leetcode/database/MarketAnalysisI.md&#41;)
+
+[//]: # (- [Not Boring Movies]&#40;src/main/java/in/pelligent/leetcode/database/NotBoringMovies.md&#41;)
+
 ## Programming
 
 - [Add Two Numbers](src/main/java/in/pelligent/leetcode/programming/addtwonumbers/AddTwoNumbers.md)
