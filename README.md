@@ -10,8 +10,8 @@ one Leetcode problem a day.
 - [Daily Leads And Partners](src/main/java/in/pelligent/leetcode/database/DailyLeadsAndPartners.md)
 - [Duplicate Emails](src/main/java/in/pelligent/leetcode/database/DuplicateEmails.md)
 - [Employees Earning More Than Their Managers](src/main/java/in/pelligent/leetcode/database/EmployeesEarningMoreThantheirManagers.md)
+- [Find Customer Referee](src/main/java/in/pelligent/leetcode/database/FindCustomerReferee.md)
 
-[//]: # (- [Find Customer Referee]&#40;src/main/java/in/pelligent/leetcode/database/FindCustomerReferee.md&#41;)
 [//]: # (- [Find Total Time Spent By Each Employee]&#40;src/main/java/in/pelligent/leetcode/database/FindTotalTimeSpentByEachEmployee.md&#41;)
 - [Group Sold Products By The Date](src/main/java/in/pelligent/leetcode/database/GroupSoldProductsByTheDate.md)
 - [Nth Highest Salary](src/main/java/in/pelligent/leetcode/database/NthHighestSalary.md)
@@ -20,12 +20,9 @@ one Leetcode problem a day.
 [//]: # (- [Rearrange Product Tables]&#40;src/main/java/in/pelligent/leetcode/database/RearrangeProductTables.md&#41;)
 [//]: # (- [Recyclable And Low Fat Products]&#40;src/main/java/in/pelligent/leetcode/database/RecyclableAndLowFatProducts.md&#41;)
 - [Second Highest Salary](src/main/java/in/pelligent/leetcode/database/SecondHighestSalary.md)
-
-[//]: # (- [Swap Salary]&#40;src/main/java/in/pelligent/leetcode/database/SwapSalary.md&#41;)
-
-[//]: # (- [Market Analysis I]&#40;src/main/java/in/pelligent/leetcode/database/MarketAnalysisI.md&#41;)
-
-[//]: # (- [Not Boring Movies]&#40;src/main/java/in/pelligent/leetcode/database/NotBoringMovies.md&#41;)
+- [Swap Salary](src/main/java/in/pelligent/leetcode/database/SwapSalary.md)
+- [Market Analysis I](src/main/java/in/pelligent/leetcode/database/MarketAnalysisI.md)
+- [Not Boring Movies](src/main/java/in/pelligent/leetcode/database/NotBoringMovies.md)
 
 ## Programming
 
@@ -60,5 +57,4 @@ one Leetcode problem a day.
 - [Valid Anagram](src/main/java/in/pelligent/leetcode/programming/validanagram/ValidAnagram.md)
 - [Is Palindrome](src/main/java/in/pelligent/leetcode/programming/validpalindrome/IsPalindrome.md)
 - [Valid Parenthesis](src/main/java/in/pelligent/leetcode/programming/validparenthesis/ValidParenthesis.md)
-
-[//]: # (- [How Many Numbers Are Smaller Than the Current Number]&#40;src/main/java/in/pelligent/leetcode/programming/howmanynumbersaresmallerthanthecurrentnumber/HowManyNumbersAreSmallerThanTheCurrentNumber.md&#41;)
+- [How Many Numbers Are Smaller Than the Current Number](src/main/java/in/pelligent/leetcode/programming/howmanynumbersaresmallerthanthecurrentnumber/HowManyNumbersAreSmallerThanTheCurrentNumber.md)
