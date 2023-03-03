@@ -1,7 +1,9 @@
-This is me trying to be consistent on solving at least
-one Leetcode problem a day.
+My Leetcode solutions
 
-## Database
+<details>
+  <summary>Database</summary>
+
+## Database Problems
 
 - [Bank AmountSummary II](src/main/java/in/pelligent/leetcode/database/BankAmountSummaryII.md)
 - [Combine The Tables](src/main/java/in/pelligent/leetcode/database/CombineTheTables.md)
@@ -22,7 +24,12 @@ one Leetcode problem a day.
 - [Market Analysis I](src/main/java/in/pelligent/leetcode/database/MarketAnalysisI.md)
 - [Not Boring Movies](src/main/java/in/pelligent/leetcode/database/NotBoringMovies.md)
 
-## Programming
+</details>
+
+<details>
+  <summary>Programming</summary>
+
+## Programming Problems
 
 - [Add Two Numbers](src/main/java/in/pelligent/leetcode/programming/addtwonumbers/AddTwoNumbers.md)
 - [Best Time To Buy Stocks](src/main/java/in/pelligent/leetcode/programming/besttimetobuystocks/BestTimeToBuyStocks.md)
@@ -55,3 +62,5 @@ one Leetcode problem a day.
 - [Valid Parenthesis](src/main/java/in/pelligent/leetcode/programming/validparenthesis/ValidParenthesis.md)
 - [How Many Numbers Are Smaller Than the Current Number](src/main/java/in/pelligent/leetcode/programming/howmanynumbersaresmallerthanthecurrentnumber/HowManyNumbersAreSmallerThanTheCurrentNumber.md)
 - [Shuffle String](src/main/java/in/pelligent/leetcode/programming/shufflestring/ShuffleString.md)
+
+</details>
