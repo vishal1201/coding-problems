@@ -15,10 +15,10 @@ Keep computing till both the nodes, l1, l2 are not null. Every iteration, check 
 
 ## Complexity
 ### Time complexity
-O(max(l1.length, l2.length))
+    O(max(l1.length, l2.length))
 
 # Space complexity:
-O(1)
+    O(1)
 
 # Code
 ```java
